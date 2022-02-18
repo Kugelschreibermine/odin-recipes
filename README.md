@@ -1,2 +1,2 @@
 # odin-recipes
-Odin recipes html site
+Erste richtige HTML Website mit Rezepten,Bildern,Links, ect. 
